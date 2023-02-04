@@ -3,3 +3,17 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'holy'
 publishDir = "docs"
+
+
+[params]
+  copyright = "Copyright © 2023, jenna1030, powered by Hugo, themed from holy"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+
