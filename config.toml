@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = '/'
 languageCode = 'ko-kr'
 title = '블로그'
 theme = 'holy'
