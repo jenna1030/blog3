@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'ko-kr'
+title = '블로그'
 theme = 'holy'
 publishDir = "docs"
 
@@ -12,7 +12,7 @@ publishDir = "docs"
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "소개"
     url = "/about/"
     weight = 10
 
