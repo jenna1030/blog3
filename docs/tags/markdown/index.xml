@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>markdown on 블로그</title>
-    <link>/tags/markdown/</link>
+    <link>https://jenna1030.github.io/blog3/tags/markdown/</link>
     <description>Recent content in markdown on 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jenna1030.github.io/blog3/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>image test</title>
-      <link>/post/image-test/</link>
+      <link>https://jenna1030.github.io/blog3/post/image-test/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/image-test/</guid>
+      <guid>https://jenna1030.github.io/blog3/post/image-test/</guid>
       <description>&lt;p&gt;이미지를 넣어보기 위한 포스트&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>/post/markdown-syntax/</link>
+      <link>https://jenna1030.github.io/blog3/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/markdown-syntax/</guid>
+      <guid>https://jenna1030.github.io/blog3/post/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>/post/placeholder-text/</link>
+      <link>https://jenna1030.github.io/blog3/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/placeholder-text/</guid>
+      <guid>https://jenna1030.github.io/blog3/post/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     
