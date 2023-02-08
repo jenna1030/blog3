@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://jenna1030.github.io/blog3/'
 languageCode = 'ko-kr'
 title = '블로그'
 theme = 'holy'
